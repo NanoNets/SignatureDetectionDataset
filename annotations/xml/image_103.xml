@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>ucl-prof.png</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\ucl-prof.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>595</width>
+		<height>774</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>476</ymin>
+			<xmax>277</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>

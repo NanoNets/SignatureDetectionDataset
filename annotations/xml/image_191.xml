@@ -1,0 +1,38 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>scanned-certificate-1-638.jpg</filename>
+	<path>E:\14th Feb work\scanned-certificate-1-638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>878</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>674</ymin>
+			<xmax>401</xmax>
+			<ymax>713</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>712</ymin>
+			<xmax>392</xmax>
+			<ymax>763</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>tcs.jpg</filename>
+	<path>E:\14th Feb work\tcs.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>471</width>
+		<height>585</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>416</ymin>
+			<xmax>401</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>496</ymin>
+			<xmax>460</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

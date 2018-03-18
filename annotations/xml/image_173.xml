@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>Australian-NewZealand.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\Australian-NewZealand.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1171</width>
+		<height>1682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>1353</ymin>
+			<xmax>429</xmax>
+			<ymax>1421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>757</xmin>
+			<ymin>1316</ymin>
+			<xmax>1037</xmax>
+			<ymax>1493</ymax>
+		</bndbox>
+	</object>
+</annotation>

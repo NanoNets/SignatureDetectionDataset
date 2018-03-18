@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>incorporation.jpg</filename>
+	<path>E:\14th Feb work\incorporation.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1132</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>962</ymin>
+			<xmax>622</xmax>
+			<ymax>1065</ymax>
+		</bndbox>
+	</object>
+</annotation>

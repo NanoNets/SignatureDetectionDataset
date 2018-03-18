@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>Member-Southafrica.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\Member-Southafrica.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1171</width>
+		<height>1682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>1173</ymin>
+			<xmax>562</xmax>
+			<ymax>1311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>1306</ymin>
+			<xmax>664</xmax>
+			<ymax>1483</ymax>
+		</bndbox>
+	</object>
+</annotation>

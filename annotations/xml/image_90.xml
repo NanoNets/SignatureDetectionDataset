@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>incorp_certi.jpg</filename>
+	<path>E:\14th Feb work\incorp_certi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>569</width>
+		<height>762</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>688</ymin>
+			<xmax>522</xmax>
+			<ymax>751</ymax>
+		</bndbox>
+	</object>
+</annotation>

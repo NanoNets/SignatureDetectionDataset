@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>DBEwlJWW0AIIFe-.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\DBEwlJWW0AIIFe-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>935</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>1005</ymin>
+			<xmax>688</xmax>
+			<ymax>1050</ymax>
+		</bndbox>
+	</object>
+</annotation>

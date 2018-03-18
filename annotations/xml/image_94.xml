@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>3362374_rdax_427x600_80.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\3362374_rdax_427x600_80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>427</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>503</ymin>
+			<xmax>96</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>506</ymin>
+			<xmax>247</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>524</ymin>
+			<xmax>382</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>

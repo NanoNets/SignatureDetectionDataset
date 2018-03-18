@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>Grove_HOA_Art_of_Inc-1.jpg</filename>
+	<path>E:\14th Feb work\Grove_HOA_Art_of_Inc-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2550</width>
+		<height>3300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1197</xmin>
+			<ymin>2615</ymin>
+			<xmax>2407</xmax>
+			<ymax>2900</ymax>
+		</bndbox>
+	</object>
+</annotation>

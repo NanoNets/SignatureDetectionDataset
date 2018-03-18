@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>NEST-Adventure-5.jpg</filename>
+	<path>E:\14th Feb work\NEST-Adventure-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>394</ymin>
+			<xmax>694</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>550px-Letter_regarding_Aristide_Razu_from_the_Knighthood.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\550px-Letter_regarding_Aristide_Razu_from_the_Knighthood.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>767</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>503</ymin>
+			<xmax>343</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>521</ymin>
+			<xmax>343</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

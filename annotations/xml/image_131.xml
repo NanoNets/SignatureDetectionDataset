@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>hcarticlesofincorporation_page_01.png</filename>
+	<path>E:\14th Feb work\hcarticlesofincorporation_page_01.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2040</width>
+		<height>2640</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1042</xmin>
+			<ymin>2256</ymin>
+			<xmax>1802</xmax>
+			<ymax>2496</ymax>
+		</bndbox>
+	</object>
+</annotation>

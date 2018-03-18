@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>first-nomination-american-friends.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\first-nomination-american-friends.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2876</width>
+		<height>3717</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1451</xmin>
+			<ymin>2825</ymin>
+			<xmax>2295</xmax>
+			<ymax>3180</ymax>
+		</bndbox>
+	</object>
+</annotation>

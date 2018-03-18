@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>Representative-Brenda-Lawrence-130-letter.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\Representative-Brenda-Lawrence-130-letter.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1646</width>
+		<height>2170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>1520</ymin>
+			<xmax>840</xmax>
+			<ymax>1636</ymax>
+		</bndbox>
+	</object>
+</annotation>

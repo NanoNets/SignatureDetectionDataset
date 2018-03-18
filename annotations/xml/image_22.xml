@@ -1,0 +1,50 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>certificate 15.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\certificate 15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1364</width>
+		<height>1929</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>1554</ymin>
+			<xmax>437</xmax>
+			<ymax>1637</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>1633</ymin>
+			<xmax>544</xmax>
+			<ymax>1718</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>990</xmin>
+			<ymin>1701</ymin>
+			<xmax>1244</xmax>
+			<ymax>1797</ymax>
+		</bndbox>
+	</object>
+</annotation>

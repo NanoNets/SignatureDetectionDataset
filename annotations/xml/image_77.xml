@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>Appointed-distributor-ACOEM.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\Appointed-distributor-ACOEM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2264</width>
+		<height>3389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>2410</ymin>
+			<xmax>694</xmax>
+			<ymax>2699</ymax>
+		</bndbox>
+	</object>
+</annotation>

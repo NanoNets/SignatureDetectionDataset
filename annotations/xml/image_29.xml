@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>btech-engineering-certificate-1-638.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\btech-engineering-certificate-1-638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>908</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>715</ymin>
+			<xmax>406</xmax>
+			<ymax>775</ymax>
+		</bndbox>
+	</object>
+</annotation>

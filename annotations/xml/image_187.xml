@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>offer.jpg</filename>
+	<path>E:\14th Feb work\offer.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2611</width>
+		<height>3373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>2023</ymin>
+			<xmax>1108</xmax>
+			<ymax>2228</ymax>
+		</bndbox>
+	</object>
+</annotation>

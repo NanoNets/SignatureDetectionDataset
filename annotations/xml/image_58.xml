@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>Kukkiwon-Advisory-Committee-Member-letter-from-the-president.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\Kukkiwon-Advisory-Committee-Member-letter-from-the-president.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1488</width>
+		<height>2105</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>608</xmin>
+			<ymin>1715</ymin>
+			<xmax>886</xmax>
+			<ymax>1780</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>398.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\398.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>277</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>328</ymin>
+			<xmax>110</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>334</ymin>
+			<xmax>254</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

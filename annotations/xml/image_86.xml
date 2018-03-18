@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>certificate 6.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\certificate 6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>722</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>709</ymin>
+			<xmax>675</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>

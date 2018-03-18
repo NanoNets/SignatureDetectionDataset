@@ -1,0 +1,38 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>scanned-document-draka.jpg</filename>
+	<path>E:\14th Feb work\scanned-document-draka.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>356</ymin>
+			<xmax>143</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>342</ymin>
+			<xmax>230</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

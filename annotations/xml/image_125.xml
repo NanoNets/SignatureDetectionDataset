@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>harryreid.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\harryreid.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>788</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>757</ymin>
+			<xmax>478</xmax>
+			<ymax>902</ymax>
+		</bndbox>
+	</object>
+</annotation>

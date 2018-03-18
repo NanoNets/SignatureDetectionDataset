@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>let2 (1).jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\let2 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>827</width>
+		<height>1171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>685</ymin>
+			<xmax>319</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+</annotation>

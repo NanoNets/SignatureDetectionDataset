@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Archive.zip (Unzipped Files)</folder>
+	<filename>679.jpg</filename>
+	<path>C:\Users\sonali.NEWOXY\Desktop\Images\Archive.zip (Unzipped Files)\679.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1074</width>
+		<height>1261</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>836</ymin>
+			<xmax>922</xmax>
+			<ymax>964</ymax>
+		</bndbox>
+	</object>
+</annotation>

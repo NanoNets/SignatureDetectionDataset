@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>FLB-Signature-and-digital-seal-authenticity-letter.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\FLB-Signature-and-digital-seal-authenticity-letter.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>1369</ymin>
+			<xmax>658</xmax>
+			<ymax>1559</ymax>
+		</bndbox>
+	</object>
+</annotation>

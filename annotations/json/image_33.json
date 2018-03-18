@@ -1,0 +1,1 @@
+{"segmented": 0, "object": {"name": "Signature", "pose": "Unspecified", "truncated": 0, "difficult": 0, "bndbox": {"xmin": 155, "ymin": 147, "xmax": 230, "ymax": 183}}, "size": {"width": 320, "height": 230, "depth": 3}}

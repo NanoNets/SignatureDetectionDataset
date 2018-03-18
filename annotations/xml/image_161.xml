@@ -1,0 +1,38 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>CRP.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\CRP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>423</width>
+		<height>572</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>467</ymin>
+			<xmax>403</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>469</ymin>
+			<xmax>135</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

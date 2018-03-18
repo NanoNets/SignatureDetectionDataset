@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>articles-of-incorporation-non-profit-texas-700x912.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\articles-of-incorporation-non-profit-texas-700x912.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>912</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>621</ymin>
+			<xmax>614</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>

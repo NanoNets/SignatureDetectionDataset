@@ -1,0 +1,38 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>Kerala-HRD-Attestation-2018.jpg</filename>
+	<path>E:\14th Feb work\Kerala-HRD-Attestation-2018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2419</width>
+		<height>1421</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1192</xmin>
+			<ymin>403</ymin>
+			<xmax>2144</xmax>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>466</ymin>
+			<xmax>807</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+</annotation>

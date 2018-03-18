@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>scanned-renewal-of-2016-dswd-permit-1.jpg</filename>
+	<path>E:\14th Feb work\scanned-renewal-of-2016-dswd-permit-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>552</width>
+		<height>716</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>521</ymin>
+			<xmax>364</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

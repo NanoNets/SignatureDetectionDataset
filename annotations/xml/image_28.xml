@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>9732354_orig.png</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\9732354_orig.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>616</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>519</ymin>
+			<xmax>517</xmax>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+</annotation>

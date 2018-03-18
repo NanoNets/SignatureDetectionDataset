@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>NIEF Articles of Incorporation_0001-th.jpg</filename>
+	<path>E:\14th Feb work\NIEF Articles of Incorporation_0001-th.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>308</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>207</ymin>
+			<xmax>367</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

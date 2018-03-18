@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>certificate-template-for-word-example-of-letter-intent-formats-in-microsoft-basic-sample-address-change-form-audit-forms-templates-authorization-awards-certificates-agreement-services.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\certificate-template-for-word-example-of-letter-intent-formats-in-microsoft-basic-sample-address-change-form-audit-forms-templates-authorization-awards-certificates-agreement-services.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3506</width>
+		<height>2480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>1889</ymin>
+			<xmax>1133</xmax>
+			<ymax>2061</ymax>
+		</bndbox>
+	</object>
+</annotation>

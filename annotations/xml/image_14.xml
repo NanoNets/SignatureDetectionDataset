@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>fiata2.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\fiata2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>877</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>625</ymin>
+			<xmax>224</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>598</ymin>
+			<xmax>470</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+</annotation>

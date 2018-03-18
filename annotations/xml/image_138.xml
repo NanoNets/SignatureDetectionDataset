@@ -1,0 +1,38 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>35a5d4d2e7dca1685352b42a6e7a3dc0.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\35a5d4d2e7dca1685352b42a6e7a3dc0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>878</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>576</ymin>
+			<xmax>236</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>575</ymin>
+			<xmax>562</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

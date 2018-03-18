@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>MSS.126_JJ_X_44.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\MSS.126_JJ_X_44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>676</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>691</ymin>
+			<xmax>649</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+</annotation>

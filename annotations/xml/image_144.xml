@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>ATCC.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\ATCC.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>559</width>
+		<height>808</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>614</ymin>
+			<xmax>532</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

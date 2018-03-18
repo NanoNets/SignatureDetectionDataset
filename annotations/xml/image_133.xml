@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>Japanese-Govenor1.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\Japanese-Govenor1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3145</width>
+		<height>3903</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1352</xmin>
+			<ymin>2475</ymin>
+			<xmax>2781</xmax>
+			<ymax>2698</ymax>
+		</bndbox>
+	</object>
+</annotation>

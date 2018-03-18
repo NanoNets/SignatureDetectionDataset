@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>page1.jpeg</filename>
+	<path>E:\14th Feb work\page1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2542</width>
+		<height>3596</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1478</xmin>
+			<ymin>2669</ymin>
+			<xmax>2406</xmax>
+			<ymax>2942</ymax>
+		</bndbox>
+	</object>
+</annotation>

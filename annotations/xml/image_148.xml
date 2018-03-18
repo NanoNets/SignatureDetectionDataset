@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>patronat-WKSL.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\patronat-WKSL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2434</width>
+		<height>3418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>972</xmin>
+			<ymin>2319</ymin>
+			<xmax>1809</xmax>
+			<ymax>2503</ymax>
+		</bndbox>
+	</object>
+</annotation>

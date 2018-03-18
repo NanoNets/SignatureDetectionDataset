@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Archive.zip (Unzipped Files)</folder>
+	<filename>770.jpg</filename>
+	<path>C:\Users\sonali.NEWOXY\Desktop\Images\Archive.zip (Unzipped Files)\770.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>196</ymin>
+			<xmax>397</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>337</ymin>
+			<xmax>360</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>432</ymin>
+			<xmax>416</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>Japanese-Stomatology.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\Japanese-Stomatology.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1171</width>
+		<height>1682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>627</xmin>
+			<ymin>1386</ymin>
+			<xmax>1057</xmax>
+			<ymax>1458</ymax>
+		</bndbox>
+	</object>
+</annotation>

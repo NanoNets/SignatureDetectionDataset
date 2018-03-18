@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>large_AISSMS-Certificate-2.png</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\large_AISSMS-Certificate-2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>1128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>945</ymin>
+			<xmax>658</xmax>
+			<ymax>1028</ymax>
+		</bndbox>
+	</object>
+</annotation>

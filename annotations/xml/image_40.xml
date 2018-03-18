@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>Identity_Proof_P00278790_2015.jpg</filename>
+	<path>E:\14th Feb work\Identity_Proof_P00278790_2015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1522</xmin>
+			<ymin>336</ymin>
+			<xmax>1829</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+</annotation>

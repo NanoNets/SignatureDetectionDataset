@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>Shrine_of_the_Irish_Oak_s_legal_charter.jpg</filename>
+	<path>E:\14th Feb work\Shrine_of_the_Irish_Oak_s_legal_charter.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2522</width>
+		<height>3286</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1323</xmin>
+			<ymin>2448</ymin>
+			<xmax>2148</xmax>
+			<ymax>2583</ymax>
+		</bndbox>
+	</object>
+</annotation>

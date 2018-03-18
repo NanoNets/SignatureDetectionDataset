@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>KERALA-UNIVERSITY-APPROVAL.jpg</filename>
+	<path>E:\14th Feb work\KERALA-UNIVERSITY-APPROVAL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2552</width>
+		<height>3496</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1741</xmin>
+			<ymin>2016</ymin>
+			<xmax>2183</xmax>
+			<ymax>2263</ymax>
+		</bndbox>
+	</object>
+</annotation>

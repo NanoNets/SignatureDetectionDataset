@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>Certificate-of-Incorporation2.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\Certificate-of-Incorporation2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>909</width>
+		<height>1183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>931</ymin>
+			<xmax>483</xmax>
+			<ymax>1040</ymax>
+		</bndbox>
+	</object>
+</annotation>

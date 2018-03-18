@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>circular internship transfer.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\circular internship transfer.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>951</width>
+		<height>1314</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>690</xmin>
+			<ymin>799</ymin>
+			<xmax>909</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+</annotation>

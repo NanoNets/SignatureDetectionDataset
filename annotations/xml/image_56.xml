@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>2525255895_ce2307da70_b.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\2525255895_ce2307da70_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>787</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>779</ymin>
+			<xmax>657</xmax>
+			<ymax>890</ymax>
+		</bndbox>
+	</object>
+</annotation>

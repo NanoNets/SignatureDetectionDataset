@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>IGBC MEMBERSHIP.jpg</filename>
+	<path>E:\14th Feb work\IGBC MEMBERSHIP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2552</width>
+		<height>3510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1757</xmin>
+			<ymin>1902</ymin>
+			<xmax>2368</xmax>
+			<ymax>2292</ymax>
+		</bndbox>
+	</object>
+</annotation>

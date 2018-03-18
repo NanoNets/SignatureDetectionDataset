@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>kaizenCI.jpg</filename>
+	<path>E:\14th Feb work\kaizenCI.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1199</width>
+		<height>1746</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>721</xmin>
+			<ymin>1373</ymin>
+			<xmax>1113</xmax>
+			<ymax>1497</ymax>
+		</bndbox>
+	</object>
+</annotation>

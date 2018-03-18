@@ -1,0 +1,38 @@
+<annotation>
+	<folder>14th Feb work</folder>
+	<filename>scan0013.jpg</filename>
+	<path>E:\14th Feb work\scan0013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1381</width>
+		<height>1304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>766</xmin>
+			<ymin>934</ymin>
+			<xmax>1010</xmax>
+			<ymax>1045</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>902</ymin>
+			<xmax>536</xmax>
+			<ymax>1060</ymax>
+		</bndbox>
+	</object>
+</annotation>

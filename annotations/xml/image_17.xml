@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images_Arun_9 Feb</folder>
+	<filename>Letter-of-consent-for-affiliation-version1.jpg</filename>
+	<path>E:\9th Feb Work\Images_Arun_9 Feb\Letter-of-consent-for-affiliation-version1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2528</width>
+		<height>3507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1813</xmin>
+			<ymin>1826</ymin>
+			<xmax>2371</xmax>
+			<ymax>1979</ymax>
+		</bndbox>
+	</object>
+</annotation>

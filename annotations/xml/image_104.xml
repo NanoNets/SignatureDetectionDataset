@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14 feb nikita</folder>
+	<filename>007-aiu.jpg</filename>
+	<path>C:\Users\nikita\Desktop\14 feb nikita\007-aiu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2190</width>
+		<height>2700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>1797</ymin>
+			<xmax>852</xmax>
+			<ymax>2003</ymax>
+		</bndbox>
+	</object>
+</annotation>
