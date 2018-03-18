@@ -83,7 +83,7 @@ python ./code/prediction.py PATH_TO_YOUR_IMAGE.jpg
 
 **Sample Usage:**
 ```bash
-python ./code/prediction.py ./images/0001.jpg
+python ./code/prediction.py ./images/image_10.png
 ```
 
 
