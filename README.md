@@ -16,6 +16,9 @@
 
 Images taken from Google/Bing and annotations done manually
 
+| [![](https://github.com/NanoNets/SignatureDetectionDataset/raw/master/annotated/image_10.png)](Sample 1) | [![](https://github.com/NanoNets/SignatureDetectionDataset/raw/master/annotated/image_141.png)](Sample 2) | [![](https://github.com/NanoNets/SignatureDetectionDataset/raw/master/annotated/image_14.png)](Sample 3) |
+|:---:|:---:|:---:|
+
 Annotations are present for each document and have the same name as the image name. You can find the example to train a model in python and node, by updating the api-key and model id in corresponding file. There is also a pre-processed json annotations folder that are ready payload for nanonets api.
 
 
@@ -80,7 +83,7 @@ python ./code/prediction.py PATH_TO_YOUR_IMAGE.jpg
 
 **Sample Usage:**
 ```bash
-python ./code/prediction.py ./images/0001.jpg
+python ./code/prediction.py ./images/image_10.png
 ```
 
 
